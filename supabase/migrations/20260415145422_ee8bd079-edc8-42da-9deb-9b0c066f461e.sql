@@ -1,0 +1,1 @@
+ALTER TABLE public.intern_data RENAME TO intern;

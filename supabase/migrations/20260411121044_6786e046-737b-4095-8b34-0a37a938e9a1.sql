@@ -1,0 +1,1 @@
+ALTER TABLE public.internship_positions ADD COLUMN deadline date;

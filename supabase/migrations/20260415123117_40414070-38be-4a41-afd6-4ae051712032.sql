@@ -1,0 +1,3 @@
+ALTER TABLE public.users
+ADD COLUMN asal text DEFAULT '' NOT NULL,
+ADD COLUMN jurusan text DEFAULT '' NOT NULL;

@@ -1,0 +1,2 @@
+REVOKE EXECUTE ON FUNCTION public.log_activity(text, text, uuid, text, jsonb, text) FROM PUBLIC, anon;
+GRANT EXECUTE ON FUNCTION public.log_activity(text, text, uuid, text, jsonb, text) TO authenticated;

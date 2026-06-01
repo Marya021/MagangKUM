@@ -1,0 +1,1 @@
+ALTER TABLE public.internship_positions ADD COLUMN quota integer NOT NULL DEFAULT 20;

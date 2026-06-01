@@ -1,0 +1,1 @@
+ALTER TABLE public.applications ADD COLUMN school_letter_url text;
